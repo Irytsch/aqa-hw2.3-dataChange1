@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r5drnb4hkmr79nlp?svg=true)](https://ci.appveyor.com/project/Irytsch/aqa-hw2-3-datachange1)
